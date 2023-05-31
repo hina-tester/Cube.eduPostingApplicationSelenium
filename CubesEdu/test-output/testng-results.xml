@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cube.Edu Test1" duration-ms="371316" started-at="2023-05-31T08:54:42Z" finished-at="2023-05-31T09:00:53Z">
+    <groups>
+    </groups>
+    <test name="Cubes.Edu Test Cases 1" duration-ms="371316" started-at="2023-05-31T08:54:42Z" finished-at="2023-05-31T09:00:53Z">
+      <class name="com.cube.qa.testcases.PostListPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="11275" started-at="2023-05-31T08:54:43Z" finished-at="2023-05-31T08:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AllSearch()[pri:1, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="AllSearch" duration-ms="11449" started-at="2023-05-31T08:54:54Z" description="Search with valid data using all fields and filter" finished-at="2023-05-31T08:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="945" started-at="2023-05-31T08:55:06Z" finished-at="2023-05-31T08:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="11023" started-at="2023-05-31T08:55:07Z" finished-at="2023-05-31T08:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AllSearchResultnotfound()[pri:2, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="AllSearchResultnotfound" duration-ms="1546" started-at="2023-05-31T08:55:18Z" description="Search with invalid data" finished-at="2023-05-31T08:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllSearchResultnotfound -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="945" started-at="2023-05-31T08:55:19Z" finished-at="2023-05-31T08:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="9841" started-at="2023-05-31T08:55:20Z" finished-at="2023-05-31T08:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchinTable()[pri:3, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="searchinTable" duration-ms="5175" started-at="2023-05-31T08:55:30Z" description="Search in table" finished-at="2023-05-31T08:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchinTable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="889" started-at="2023-05-31T08:55:35Z" finished-at="2023-05-31T08:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="9294" started-at="2023-05-31T08:55:36Z" finished-at="2023-05-31T08:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ViewpostIconTest()[pri:4, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="ViewpostIconTest" duration-ms="15500" started-at="2023-05-31T08:55:45Z" description="Check ViewPost Icon" finished-at="2023-05-31T08:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewpostIconTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="825" started-at="2023-05-31T08:56:01Z" finished-at="2023-05-31T08:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="8909" started-at="2023-05-31T08:56:02Z" finished-at="2023-05-31T08:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EditpostIconTest()[pri:5, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="EditpostIconTest" duration-ms="32003" started-at="2023-05-31T08:56:11Z" description="Check Edit Post Icon" finished-at="2023-05-31T08:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditpostIconTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1539" started-at="2023-05-31T08:56:43Z" finished-at="2023-05-31T08:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="13542" started-at="2023-05-31T08:56:44Z" finished-at="2023-05-31T08:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnablePost()[pri:6, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="EnablePost" duration-ms="31899" started-at="2023-05-31T08:56:58Z" description="Check enable Post Icon" finished-at="2023-05-31T08:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnablePost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1222" started-at="2023-05-31T08:57:30Z" finished-at="2023-05-31T08:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="12637" started-at="2023-05-31T08:57:31Z" finished-at="2023-05-31T08:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DisablePost()[pri:7, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="DisablePost" duration-ms="37644" started-at="2023-05-31T08:57:43Z" description="Check disable Post Icon" finished-at="2023-05-31T08:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisablePost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1152" started-at="2023-05-31T08:58:21Z" finished-at="2023-05-31T08:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="10469" started-at="2023-05-31T08:58:22Z" finished-at="2023-05-31T08:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Unimportant()[pri:8, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="Unimportant" duration-ms="31558" started-at="2023-05-31T08:58:33Z" description="Check  set as un important Post Icon" finished-at="2023-05-31T08:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unimportant -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1607" started-at="2023-05-31T08:59:04Z" finished-at="2023-05-31T08:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="11801" started-at="2023-05-31T08:59:06Z" finished-at="2023-05-31T08:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ImportantPost()[pri:9, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="ImportantPost" duration-ms="32225" started-at="2023-05-31T08:59:18Z" description="Check  set as important Post Icon" finished-at="2023-05-31T08:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImportantPost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1937" started-at="2023-05-31T08:59:50Z" finished-at="2023-05-31T08:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="10356" started-at="2023-05-31T08:59:52Z" finished-at="2023-05-31T09:00:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DeletePost()[pri:10, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="DeletePost" duration-ms="35678" started-at="2023-05-31T09:00:02Z" description="Check Delete Post Icon" finished-at="2023-05-31T09:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="774" started-at="2023-05-31T09:00:38Z" finished-at="2023-05-31T09:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="8276" started-at="2023-05-31T09:00:39Z" finished-at="2023-05-31T09:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddPost()[pri:11, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="AddPost" duration-ms="4824" started-at="2023-05-31T09:00:47Z" description="Check Add Post Button" finished-at="2023-05-31T09:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cube.qa.testcases.PostListPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="1618" started-at="2023-05-31T09:00:52Z" finished-at="2023-05-31T09:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cube.qa.testcases.PostListPageTest -->
+    </test> <!-- Cubes.Edu Test Cases 1 -->
+  </suite> <!-- Cube.Edu Test1 -->
+</testng-results>

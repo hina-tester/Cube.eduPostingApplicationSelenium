@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Cube.Edu Test1">
+
+
+
+<listeners>
+	
+	<!-- 
+    <listener class-name="com.qa.ExtandReportListner.ExtandReportListner"/>  
+-->
+		
+<listener class-name="com.cubes.qa.util.Reporting" /> 
+
+
+	</listeners>
+	
+ 
+
+	<test name="Cubes.Edu Test Cases 1"  >
+	
+		<classes>
+
+	 		<class name="com.cube.qa.testcases.PostListPageTest"></class> 
+  
+	 		<class name="com.cube.qa.testcases.PostListPageTest"></class>    
+ 		    
+		
+		</classes>
+	</test>
+</suite>
